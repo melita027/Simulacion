@@ -75,7 +75,8 @@ namespace Simulacion
                                             valor1 = medio.Substring(1, 2);
                                             valor2 = "0";
                                         }
-                                        else
+                                        else//puse unc
+
                                         {
                                             valor1 = medio;
                                             valor2 = "0";
