@@ -1,0 +1,25 @@
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.Properties.Resources.resources
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.Form1.resources
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\bin\Debug\Simulacion.exe.config
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\bin\Debug\Simulacion.exe
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\bin\Debug\Simulacion.pdb
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.exe
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Simulacion.pdb
+C:\Users\DELL\Documents\semstre 4\Simulacion\Simulacion\obj\Debug\Proyecto_Simuacion.FormMediosCuadrados.resources
+D:\semstre 4\Simulacion Reyna\Simulacion\bin\Debug\Simulacion.exe.config
+D:\semstre 4\Simulacion Reyna\Simulacion\bin\Debug\Simulacion.exe
+D:\semstre 4\Simulacion Reyna\Simulacion\bin\Debug\Simulacion.pdb
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.csproj.AssemblyReference.cache
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.csproj.SuggestedBindingRedirects.cache
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.Form1.resources
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Proyecto_Simuacion.FormMediosCuadrados.resources
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.Properties.Resources.resources
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.csproj.GenerateResource.cache
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.csproj.CoreCompileInputs.cache
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.exe
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.pdb
+D:\semstre 4\Simulacion Reyna\Simulacion\obj\Debug\Simulacion.FormProductosMedios.resources
